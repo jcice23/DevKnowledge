@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+logs/
+data/
+output/
+tests/
+src/rag/storage/
+.pytest_cache/
